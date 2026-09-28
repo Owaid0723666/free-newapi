@@ -50,6 +50,7 @@
 | BER分公益站 | https://ai.berf1.cn/sign-up?aff=RQvt | 每日签到获取免费额度 | Glm / Deepseek 等4个模型 |  |
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | xAI / minimax / Glm / Deepseek 等10个模型 |  |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 |  |
+| onomeo | https://onomeo.com/?ref=AC-U4P69Q | 每日签到领小额积分：第 1 天 50,000，连续签到逐日增加，第 7 天起每天 200,000，断签从头算；注册不用绑卡；付费可选（$5 一次性买 1,000,000 积分），不付费也能用 | 一个 OpenAI 格式密钥可调 47 个模型，如 DeepSeek / GLM / Gemini / Qwen / Nemotron 等 | 个人小站，限制严格：每个密钥每分钟 12 次，每个账号每 5 小时 60 次；13 个大模型每个未付费账号每天最多用 50,000 积分；多数模型走其他平台的免费额度，部分上游可能拿提示词训练（每个模型页有注明）。公测中，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提交 |
 
 
 ---

@@ -50,6 +50,7 @@
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | xAI / minimax / Glm / Deepseek 等10个模型 |  |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 |  |
 | onomeo | https://onomeo.com/?ref=AC-U4P69Q | 每日签到领小额积分：第 1 天 5,000，连续签到逐日增加，第 7 天起每天 10,000，断签从头算；35 个免费模型不花积分，积分可在网页画图；注册不用绑卡；付费可选（$5 得 3,000,000 积分，可用 Claude、GPT 等 9 个大模型和 DeepSeek 编程专线），不付费也能用免费模型 | 一个 OpenAI 格式密钥可调 45 个模型（35 个免费 + 9 个付费大模型 + DeepSeek 编程专线），如 DeepSeek / GLM / Gemini / Qwen / Nemotron 等 | 个人小站，限制严格：每个密钥每分钟 12 次；未付费账号每 5 小时 20 次、付费账号 60 次（长消息按长度折成几次）；每个网络地址每 5 小时 40 次；全站免费次数共用一份总量，人多时可能暂时用完；大模型和编程专线只给付费账号；多数模型走其他平台的免费额度，很多上游可能拿提示词训练（每个模型页有注明）。公测中，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提交 |
+| BlockRun | https://blockrun.ai | 完全免费，无签到 | 英伟达 等7个模型 |  |
 
 
 ---
